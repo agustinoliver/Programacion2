@@ -1,0 +1,12 @@
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\Carrera Tarea 1\Carrera Tarea 1\obj\Debug\Carrera Tarea 1.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\Carrera Tarea 1\Carrera Tarea 1\obj\Debug\Carrera Tarea 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\Carrera Tarea 1\Carrera Tarea 1\obj\Debug\Carrera_Tarea_1.Form1.resources
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\Carrera Tarea 1\Carrera Tarea 1\obj\Debug\Carrera_Tarea_1.NuevaCarrera.resources
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\Carrera Tarea 1\Carrera Tarea 1\obj\Debug\Carrera_Tarea_1.Properties.Resources.resources
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\Carrera Tarea 1\Carrera Tarea 1\obj\Debug\Carrera Tarea 1.csproj.GenerateResource.cache
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\Carrera Tarea 1\Carrera Tarea 1\obj\Debug\Carrera Tarea 1.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\Carrera Tarea 1\Carrera Tarea 1\bin\Debug\Carrera Tarea 1.exe.config
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\Carrera Tarea 1\Carrera Tarea 1\bin\Debug\Carrera Tarea 1.exe
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\Carrera Tarea 1\Carrera Tarea 1\bin\Debug\Carrera Tarea 1.pdb
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\Carrera Tarea 1\Carrera Tarea 1\obj\Debug\Carrera Tarea 1.exe
+C:\Users\tomas\OneDrive\Escritorio\Prog\prog II\Carrera Tarea 1\Carrera Tarea 1\obj\Debug\Carrera Tarea 1.pdb
